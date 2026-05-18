@@ -6,3 +6,5 @@ pymupdf # ***
 sentence-transformers # Embedding models from Huggingface
 chromadb # Vector Database
 faiss-cpu # Vector Store Package
+langchain-groq
+python-dotenv
