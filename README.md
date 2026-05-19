@@ -7,5 +7,6 @@ This is a repository to practes all RAG methods. The RAG applications exist in s
  - Traditional RAG Pipeline with Langchain, Groq API, and llama-3.1
 
 
+**Repo Basic Information:**
 - Repository Created In: 04-27-2026
 - First Code Generation: 11-02-2025.
